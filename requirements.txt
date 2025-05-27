@@ -1,0 +1,7 @@
+streamlit
+transformers
+torchaudio
+torch
+soundfile
+librosa
+jiwer
